@@ -1,0 +1,976 @@
+[
+  {
+    "question": "Which of the following is the fastest growing demographic group in Canada?",
+    "choices": [
+      "visible minorities",
+      "Aboriginals",
+      "women",
+      "persons with disabilities"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Organization Z is about to undertake an organization-wide process of ensuring equitable representation in terms of designated groups, including an analysis and redressing of past discriminations. What is Organization Z undertaking?",
+    "choices": [
+      "affirmative action policy implementation",
+      "employment equity policy implementation",
+      "pay equity policy implementation",
+      "an employment systems review"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of labour force statistics in Canada today?",
+    "choices": [
+      "increased participations rates for women",
+      "changing immigration patterns",
+      "an aging population",
+      "increasing proportion of Aboriginals"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "A large accounting firm has 30 percent female UFE-certified accountants on staff. Women make up approximately 51 percent of the population and UFE-certified women make up approximately 15 percent of the labour force. Based on this information, what is the best description of the situation for women at this large accounting firm?",
+    "choices": [
+      "They are concentrated.",
+      "They are underrepresented.",
+      "They are underutilized.",
+      "They are discriminated against."
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following compounds the employment barriers facing Aboriginals in Canada?",
+    "choices": [
+      "negative past employment experience",
+      "illiteracy",
+      "reluctance to leave the area in which they grew up",
+      "language and culture"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "In a legal sense, what are two key concepts of justice?",
+    "choices": [
+      "courts and tribunals",
+      "transparency and the glass ceiling",
+      "ethics and fairness",
+      "fair and foul play"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "According to the textbook, which group is most likely to view the Canadian Charter of Rights and Freedoms as a disappointment?",
+    "choices": [
+      "unions",
+      "women",
+      "employers",
+      "religious groups"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "In Canada, what is a key characteristic of the occupations where women tend to be concentrated?",
+    "choices": [
+      "They are occupations in advanced technologies and education.",
+      "There is a heavy concentration of immigrants.",
+      "They are occupations that are increasingly becoming extinct.",
+      "They are occupations with lower pay compared to men."
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which legal defence can a religious organization use if it insists on hiring a member from its own faith?",
+    "choices": [
+      "adverse effect",
+      "adverse impact",
+      "bona fide occupation qualification",
+      "reasonable accommodation"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "ABC Inc. is experiencing problems with recruiting and retaining Aboriginals. Based on the research on cultural values exemplified by Aboriginals, which of the following managerial practices may help with its problems?",
+    "choices": [
+      "increased executive pay",
+      "collective decision making",
+      "counselling",
+      "individual merit-based pay"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "\u201cPhil\u2019s Antique Superstore\u201d is hiring ten new customer service agents. All three of Phil\u2019s stores are housed in historic landmark buildings that are \u201cheritage\u201d sites and do not have wheelchair ramp access. Phil, the owner, has indicated that city bylaws will not allow him to renovate and add a wheelchair ramp to his buildings because of their heritage status. This fact makes the ability to \u201cgo upstairs\u201d which of the following in relation to working at Phil\u2019s?",
+    "choices": [
+      "an undue hardship",
+      "a reasonable accommodation",
+      "a bona fide occupational qualification",
+      "a system barrier"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is a possible outcome of a human rights complaint filed by an individual?",
+    "choices": [
+      "A settlement may be arranged, even if the complaint is unsubstantiated.",
+      "The Equal Rights Compliance Agency (ERCA) may become involved.",
+      "It is deemed as trivial by the CHRC and refused.",
+      "It can be waitlisted for years depending on how busy the CHRC is."
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which statement best describes the enforcement of provincial human rights laws?",
+    "choices": [
+      "Provincial laws are enforced in a similar manner except there is no court prosecution permitted.",
+      "Provincially regulated employers tend to be larger and more sophisticated.",
+      "HR professionals in provincially regulated firms tend to be very knowledgeable about human rights legislation.",
+      "Independent boards of inquiry have similar powers as a federal tribunal."
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "How is the Canadian Human Rights Act typically enforced?",
+    "choices": [
+      "by specially designated police officers",
+      "through proactive measures by the RCMP",
+      "through complaints by individuals",
+      "by human rights organizations"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the most serious possible occurrence if an HR professional is dishonest in a human rights investigation?",
+    "choices": [
+      "The organization could be fined up to $50 000.",
+      "The HR professional could be imprisoned.",
+      "The HRPA would remove certification for a year.",
+      "The HR professional would be denied employment in the future."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Green Grass Hospital pays its hallway painters/technicians nearly twice the hourly rate that it pays the nurses. Under which of the following circumstances is this fact likely to cause further investigation in a pay equity program implementation?",
+    "choices": [
+      "if the nurses have more seniority",
+      "if the painters have more training",
+      "if the nurses are predominantly women and the painters are predominantly men",
+      "if the painters\u2019 union becomes involved in the process"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Employers that pay men and women a different salary for performing jobs of comparable value violate the Pay Equity Act (Ontario) only if the differences are based on which of the following?",
+    "choices": [
+      "gender",
+      "merit",
+      "seniority",
+      "incentive plans"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is the difference between pay equity and pay equality?",
+    "choices": [
+      "Equity is equal pay for work of comparable worth\u037e equality is equal pay for equal work.",
+      "Equality is equal pay for work of comparable worth\u037e equity is equal pay for equal work.",
+      "Equity is about fair pay for individual women employees\u037e pay equality is required of all federally regulated employers.",
+      "Equality is about fair pay for entire occupations\u037e equity is required by law in every jurisdiction in Canada."
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is a recent change in the Federal Contractors Program?",
+    "choices": [
+      "Refugee status was added as a new designated group.",
+      "The contract threshold was increased to $1 million.",
+      "It was discontinued.",
+      "The provinces are now required to administer it."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following requires large firms bidding on federal government contracts worth $1 million or more to have an employment equity plan?",
+    "choices": [
+      "the Canada Labour Code",
+      "the Federal Contractors Program",
+      "the Abella Commission",
+      "the Pay Equity Act"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the first step in the employment equity implementation process?",
+    "choices": [
+      "conduct a strategic discrimination gap analysis",
+      "establishment of a workplan",
+      "employment systems review",
+      "senior management commitment"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following is NOT normally done in implementing employment equity in organizations?",
+    "choices": [
+      "collecting/analyzing data",
+      "establishing a workplan",
+      "ensuring pay equity",
+      "getting senior management commitment"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is the best example of how an organization\u2019s leadership can demonstrate its commitment to an employment equity plan?",
+    "choices": [
+      "allowing employees to fill out the employment equity survey on company time",
+      "offering a full explanation of the employment equity policy to top managers",
+      "offering a guarantee of confidentiality",
+      "publicly describing the organization\u2019s commitment to employment equity"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following people would be the best choice for an organizational employment equity representative?",
+    "choices": [
+      "Bill has belonged to the organization for 15 years, beginning on the shop floor, and is now a manager. He is well known and respected within the organization. Bill\u2019s sister, who lives with him, is disabled and uses a wheelchair.",
+      "Sandeep is a member of a designated group, is new to the organization, and works in management. He is an active member of his religious group.",
+      "Candy is a member of designated group and has been with the organization for 25 years as a telephone receptionist. She knows everyone and is very popular due to her friendliness and great memory.",
+      "Antonia, who has been with the organization for 15 years, is very interested in becoming the employment equity representative because she is very organized and wants an opportunity to demonstrate this to management so she can be considered for a promotion."
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which term refers to a snapshot of the organization that includes where members of designated groups are employed, their salaries, and their status?",
+    "choices": [
+      "stock data",
+      "HR spreadsheet",
+      "flow data",
+      "employer profile"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is another term used for unintentional discrimination by organizations?",
+    "choices": [
+      "overt discrimination",
+      "job-related discrimination",
+      "systemic discrimination",
+      "personal discrimination"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is done during the data collection phase for employment equity purposes?",
+    "choices": [
+      "voluntary self-identification",
+      "mandatory self-identification",
+      "surveys of similar employers",
+      "surveys of supervisors"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "A key goal of employment equity is to ensure that an organization has a representative workforce. What does \u201crepresentative\u201d mean in this context?",
+    "choices": [
+      "when there are equal numbers of all groups represented in all jobs",
+      "when there are equal numbers of the four designated groups in the organization",
+      "when males and females are equally represented",
+      "when the organization\u2019s workforce reflects the demographic composition of the external workforce"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Phil\u2019s Antique Superstore is hiring ten new customer service agents. All three of Phil\u2019s stores are housed in historic landmark buildings that are \u201cheritage\u201d sites and do not have wheelchair ramp access. What is this an example of?",
+    "choices": [
+      "a systemic barrier",
+      "the need for special measures",
+      "lack of reasonable accommodation",
+      "the duty to accommodate"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following recruiting methods is very susceptible to creating systemic discrimination?",
+    "choices": [
+      "word-of-mouth",
+      "online ads",
+      "ads in widely circulated newspapers",
+      "ads in community newspapers"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Implementing a flexible work schedule is an example of which of the following?",
+    "choices": [
+      "reasonable accommodation",
+      "a special measure",
+      "an employment equity goal",
+      "a workplan"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which organizational situation best represents the principle of the duty to accommodate?",
+    "choices": [
+      "renovating so that the building has wheelchair access, even if it is through a rear-entrance loading dock",
+      "equipping washrooms with lower mirrors and faucets, and wider doors",
+      "having regular employee surveys for disabled employees to ensure their needs are met",
+      "following the uniform guidelines for accommodation"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "When is an organization\u2019s workforce \u201crepresentative\u201d?",
+    "choices": [
+      "when it reflects an improvement from the previous year\u2019s results",
+      "when numerical goals have been established",
+      "when it reflects the demographic composition of the external workforce",
+      "when the process used to hire is similar across all units"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the first step for the establishment of a workplan for the development of an employment equity program?",
+    "choices": [
+      "doing a job analysis",
+      "examining the workforce analysis",
+      "developing a strategic plan",
+      "setting numerical goals"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Ross Metals Inc. is claiming that it would cost the organization more than half its revenues to build a ramp to accommodate one of its employees with a disability. What is likely the argument Ross Metals Inc. is making to seek exemption from the duty to accommodate?",
+    "choices": [
+      "undue hardship to the employer",
+      "going out of business",
+      "incompatibility with the law",
+      "sale of business"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Once an employment equity program has been implemented, what is the most important thing to do?",
+    "choices": [
+      "evaluate and monitor it closely",
+      "keep up to date on new developments and laws in employment equity",
+      "inform the CHRA of progress",
+      "limit revisions to the program to one per year"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What are two sources of the employer\u2019s duty to prevent sexual harassment?",
+    "choices": [
+      "human rights legislation and employment standards legislation",
+      "pay equity legislation and common law obligations",
+      "pay equity legislation and common law obligations",
+      "human rights legislation and common law obligations"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following is true in terms of the relationship between employment equity and diversity management?",
+    "choices": [
+      "The terms are used interchangeably as they are the same.",
+      "Diversity management goes beyond the four groups covered in employment equity.",
+      "The focus of diversity management is economic but for employment equity it is morality.",
+      "Diversity management is more restricted in terms of groups covered."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "An effective sexual harassment policy includes all of the following EXCEPT which one?",
+    "choices": [
+      "a comprehensive, well-publicized, organization-wide policy on sexual harassment",
+      "a formal complaint procedure that spells out the methods used to investigate charges",
+      "emphasis on follow-up and discipline for supported charges",
+      "a policy to dismiss any employee accused of sexual harassment"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "The concepts of harassment in the workplace are being broadened to include which one of the following?",
+    "choices": [
+      "psychological harassment such as bullying",
+      "compensation decisions",
+      "privacy",
+      "unequal pay for equal work"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Organization Z is planning a formal process of examining its workforce in terms of religion, personality, lifestyle, and education. The company plans to gain a strategic advantage by harnessing the differences that exist within the organization. What is Organization Z planning to do?",
+    "choices": [
+      "implement an employment equity program",
+      "implement a pay equity program",
+      "initiate a cultural assessment",
+      "employ diversity management"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Proponents of diversity management contend that diversity-related initiatives can help Canada with enlarging its global markets. What is this argument an example of?",
+    "choices": [
+      "reverse discrimination",
+      "the business case",
+      "reasonable accommodation",
+      "employment equity"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is an important reason behind implementing a diversity initiative?",
+    "choices": [
+      "to help train organizational leaders",
+      "to avoid human rights complaints",
+      "to comply with Canadian legal requirements in relation to pay",
+      "to capitalize on emerging markets around the world"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following is NOT true in relation to diversity management?",
+    "choices": [
+      "It is broad and inclusive.",
+      "It has economic benefits.",
+      "It requires top leadership support for its success.",
+      "It is the same as employment equity."
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "What are the primary business reasons for diversity management?",
+    "choices": [
+      "acting in accordance with CHRA legislation\u037e better utilization of talent\u037e better teamwork\u037e better marketplace understanding\u037e better leadership",
+      "enhanced creativity\u037e better synergy\u037e better utilization of talent\u037e better leadership\u037e better teamwork",
+      "acting in accordance with CHRA legislation\u037e better utilization of talent\u037e better leadership\u037e better work ethic\u037e better marketplace understanding",
+      "better utilization of talent\u037e better marketplace understanding\u037e enhanced creativity\u037e better leadership\u037e better teamwork"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Scenario 3.1 The Furniture Emporium Inc. is a Canadian-based international manufacturer and distributor of high-end furniture for offices and homes. Since 2010, it has been expanding into the emerging markets across the globe. The company\u2019s workforce is representative of the population. As well, women make up 58 percent of the company\u2019s workforce. However, while these groups are well represented in the organization, they are not seen in the same percentage as a part of the senior management structure of the organization. While Furniture Emporium hires for diversity, it does not use its employees\u2019 diverse skills and abilities to enhance its global potential, given the international nature of its business. Refer to Scenario 3.1. Which of the following is a good way for Furniture Emporium to gain a strategic and competitive advantage, through its employees, in the international furniture market? hire for diversity ensure pay equity is implemented manage diversity effectively promote employees from the designated groups",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Refer to Scenario 3.1. Which of the following accurately represents diversity management if Furniture Emporium were to use it as a strategic tool?",
+    "choices": [
+      "It is required by law in Canada.",
+      "It is a big part of managing human resources.",
+      "It is relatively simple and requires little time to implement.",
+      "It can be a complex and lengthy process to embark on."
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Refer to Scenario 3.1. Why can the ethnic groups help Furniture Emporium leverage its diverse workforce to gain competitive advantage?",
+    "choices": [
+      "They are easier to work with.",
+      "They possess knowledge of foreign cultures and business practices.",
+      "They are time-oriented.",
+      "They are performance driven."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Refer to Scenario 3.1. By strategically incorporating a diverse workforce into all levels of the organization, what can Furniture Emporium benefit from?",
+    "choices": [
+      "increased profitability and share prices",
+      "employee loyalty and retention",
+      "the spending power of these groups",
+      "the diverse educational background of these groups"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Refer to Scenario 3.1. If Furniture Emporium wants to create an environment for success in the international furniture market by leveraging their employees, what do they need to fully understand?",
+    "choices": [
+      "the need for a systematic approach to managing diversity",
+      "how to reward their executives for success",
+      "how to incorporate short-term diversity initiatives",
+      "employment equity legislation"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Scenario 3.2 Metro Business is a growing firm located in Calgary, Alberta. The CEO, Niri Malo, has noticed that most of the recent applications for positions in the organization are self-identified persons from the four designated groups covered by employment equity legislation in Canada. Ms. Malo has heard of the benefits of a diversity workforce and wants to implement an employment equity plan. She understands, however, that there may be challenges in implementing it. Refer to Scenario 3.2. What is one reason for Metro Business to have an employment equity plan? They would like access to the Federal Contractors Program. It is required for all firms in Canada. It will address pay equity problems. It will prevent racism in the organization.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Refer to Scenario 3.2. What is the first step in establishing the employment equity plan at Metro Business?",
+    "choices": [
+      "collecting data on Metro\u2019s demographics",
+      "ensuring senior management commitment",
+      "ensuring reasonable accommodation",
+      "getting the government\u2019s approval"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Refer to Scenario 3.2. Which of the following is NOT one of the four designated groups covered by the federal Employment Equity Act?",
+    "choices": [
+      "Aboriginals",
+      "persons with disabilities",
+      "Women",
+      "war veterans"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "In Canada, the four designated groups that have not received equitable treatment in employment are women, Aboriginal people, people with disabilities, and visible minorities. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Women are underrepresented as technicians and semi-skilled professionals. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The four traditionally disadvantaged groups could be brought into the mainstream of Canada\u2019s labour force through employment equity. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Recent statistics indicate that visible minorities are lacking in educational qualifications, which has resulted in their high unemployment rates. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Employment equity makes good business sense since it contributes to the bottom line. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Human rights legislation is the cornerstone of equity legislation. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The Charter of Rights and Freedoms guarantees the right to bargain collectively and to strike. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Federal law prohibits discrimination based on sexual orientation. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Every workplace in Canada is covered by human rights legislation. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The only difference between federal and provincial human rights laws is that the former cover federally regulated industries and the latter cover provincially regulated industries. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Prohibited grounds of discrimination in employment vary between provinces. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Prohibited grounds of discrimination in employment include race, religion, sex, age, national or ethnic origin, disability, and marital status. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Employers are permitted to discriminate if there is a bona fide occupational qualification. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "A religious organization is permitted to discriminate on the basis of religion. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "An example of a BFOQ for age is the argument that a younger employee will project a better, more energetic image to the public. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The Canadian Human Rights Commission (CHRC) may choose to act on its own if it feels there are sufficient grounds for a finding of discrimination. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The Canadian Human Rights Commission (CHRC) must accept all complaints except those not filed within a prescribed period of time. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Once a complaint has been accepted by the Canadian Human Rights Commission (CHRC), an investigator is assigned the task of fact finding from both the complainant and the accused. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "As an HR professional, if you lie or are otherwise involved in obstructing an investigation by the Canadian Human Rights Commission, you can serve jail time. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Pay equity law makes it illegal for employers to discriminate against individuals on the basis of job content. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "In 2002, women aged 15 and over who had employment income made 55 cents for every $1 earned by their male counterparts. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Pay equity is based on the principles of equal pay for equal work and equal pay for work of comparable worth. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Implementation of pay equity is based on comparing the work of female and male employees doing the same job. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The federal pay equity legislation applies to all employees in Canada. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The Employment Equity Act of 1995 only affects employers under federal jurisdiction. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The Employment Equity Act stipulates that employers and Crown corporations with 200 employees or more, who are regulated under the Canada Labour Code, must implement employment equity and report on results attained. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The concept of employment equity is rooted in the federal Charter of Rights and Freedoms, and in federal and provincial human rights codes. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Employment equity involves the identification and removal of systemic barriers to employment opportunities that adversely affect the four designated groups. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Employment equity involves the implementation of special measures and reasonable accommodation. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Federally regulated employers are required to conduct a workforce analysis to identify underrepresentation of members of designated groups. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Firms under provincial jurisdiction with 100 or more employees, wishing to bid for goods and services contracts with the federal government valued at $200 000 or more, must implement an employment equity plan. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Under the Canadian Human Rights Act, the Canadian Human Rights Commission is authorized to prohibit discrimination against members of the designated groups in the establishment of federally regulated businesses. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Employment equity involves changing the composition of an organization\u2019s workforce to better reflect the workforce. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "An employment equity program is a process requiring senior management commitment and involvement. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Employers covered by the federal Employment Equity Act are required to consult with designated employees\u2019 representatives or, in a unionized setting, with bargaining agents. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The labour movement in Canada has generally been opposed to the concept of employment equity. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The first step in the implementation of employment equity is data collection and analysis. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The development of an external workforce profile is an important tool in employment equity planning. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Concentration occurs when the numbers of a protected class in a particular occupation or level are high relative to their numbers in the labour market. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "An employer should try to eliminate unintentional discrimination, but is not legally accountable for such discrimination. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Reasonable accommodation involves making changes to the workplace so that no individual is disadvantaged with respect to employment. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Targeted recruitment aimed primarily at correcting employment inequities is an example of a special measure designed to accelerate the entry and promotion of members of designated groups discriminated against in the past. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Reasonable accommodation benefits all employees. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The overall goal for an organization with respect to employment equity is to achieve a workforce representative of the demographic composition of the external workforce. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "According to one study, only one of every ten Canadian women who suffer sexual harassment at work takes any formal action. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "An example of sexual harassment is having to listen to comments made by co-workers about their sexual conquests every Monday morning even when you have told them that their remarks make you extremely uncomfortable. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Employers are guilty of sexual harassment if they permit their customers to sexually harass their employees. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The main cost of sexual harassment in the workplace is legal settlements True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The concept of harassment has been broadened to include bullying in at least one provincial jurisdiction. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The optimization of an organization\u2019s multicultural workforce in order to reach business objectives is known as diversity management. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Managing diversity is primarily a moral issue. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Transforming an organizational culture into a culture that embraces diversity is relatively simple and can be done in a relatively short period of time. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Diversity initiatives should be directly linked to the business objectives of top management. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Leadership is one of the key variables in a firm\u2019s ability to incorporate the value of diversity into its business strategy. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Diversity initiatives are most successful when they are perceived to be human resources programs. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "A crucial element of any diversity management initiative is proper training across the organization. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  }
+]

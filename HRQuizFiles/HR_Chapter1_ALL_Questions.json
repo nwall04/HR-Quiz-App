@@ -1,0 +1,916 @@
+[
+  {
+    "question": "Chapter 1 \u2013 The World of Human Resource Management XYZ Inc., a new manufacturing company, wants to build its human capital base. Which of the following staffing programs should it rely upon? identifying and hiring cheap sources of qualified labour in order to fill front-line positions quickly identifying and hiring individuals with highly specialized skills who can train others in the organization identifying college graduates with the requisite skills who can be promoted to management positions quickly identifying and hiring the best and brightest individuals",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is an increasing source of success for organizations?",
+    "choices": [
+      "the knowledge, skills, and abilities of its top executives",
+      "the knowledge, skills, and abilities of its employees",
+      "the proper management of the knowledge, skills, and abilities of its employees",
+      "the knowledge, skills, and abilities of HR professionals"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "ABC Corporation wants to expand on its markets in its new strategic plan. The plan covers the use of key resources available to the firm, including technology, people, and access to capital. Which of the following would be a critical human capital component of the plan?",
+    "choices": [
+      "capital investments",
+      "employees\u2019 skills",
+      "new markets",
+      "updated technology"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Dave Ulrich, a professor of management, is quoted as saying that, in terms of learning and development: \u201cLearning capability is g times g\u2026.\u201d What does this mean?",
+    "choices": [
+      "an employee\u2019s knowledge, measured as g, multiplied by the employer\u2019s goodwill",
+      "an organization\u2019s goodwill multiplied by its generosity to employees in terms of salaries and benefits",
+      "an organization\u2019s grand image and brand multiplied by its goodwill",
+      "an organization\u2019s ability to generate new ideas multiplied by its adeptness at generalizing them throughout the company"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Many prospective employees are interested in obtaining a job where they can learn new skills and improve existing skills. What type of organization would be the most attractive to such candidates?",
+    "choices": [
+      "an organization that provides many formal training programs that are not easily transferable to other organizations",
+      "an organization that provides many formal training programs that are very easily transferred to any job the applicant might want to apply for later in his or her career",
+      "an organization that provides mentorship programs where employees attempt challenging situations under the guidance of experienced senior staffers",
+      "an organization that provides \u201cgrow and learn\u201d sessions where classroom sessions are backed up by on-the- job training"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Why does effective management of human resources provide a firm with competitive advantage?",
+    "choices": [
+      "because it is financially cheaper to acquire people versus other resources",
+      "because people help to accelerate the use of technology",
+      "because it is difficult to replicate how we manage people in organizations",
+      "because it is easier to manage people versus other resources"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "HRM plays an important role in organizations by balancing the sometimes competing demands of which of the following?",
+    "choices": [
+      "competitive challenges and employee concerns",
+      "international challenges and employee concerns",
+      "employee concerns and employer challenges",
+      "competitive and employee challenges"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Approximately what percentage of the Canadian economy is affected by global competition?",
+    "choices": [
+      "70-85%",
+      "60-75%",
+      "50-65%",
+      "40-55%"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is NOT a key benefit of corporate social responsibility?",
+    "choices": [
+      "avoiding lawsuits",
+      "improving earnings",
+      "attracting more applicants",
+      "improving pay for employees"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "In today\u2019s highly competitive environment, managing organizational change has become which of the following?",
+    "choices": [
+      "a core competency of the organization",
+      "a product of globalization and technological advancement",
+      "a proactive method of downsizing",
+      "the preferred method of reacting to a decrease in organizational performance"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What was the first major trade agreement of the twentieth century to establish rules and guidelines for global commerce?",
+    "choices": [
+      "NAFTA (North American Free Trade Agreement)",
+      "GATT (General Agreement on Tariffs and Trade)",
+      "FTAA (Free Trade Area of the Americas)",
+      "APEC (Asia Pacific Economic Cooperation)"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Company A has decided to hire someone outside the company to perform tasks that could be done internally. What is this practice called?",
+    "choices": [
+      "contracting",
+      "outplacement",
+      "employee leasing",
+      "outsourcing"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which organization has the BEST chance of implementing a successful change initiative?",
+    "choices": [
+      "one that has ensured the employees are not overburdened with work relating to the change and have time to focus on their jobs",
+      "one that has been very positive and relaxed throughout, ensuring not to establish a sense of urgency and always reporting positive effects",
+      "one that has ensured good news is shared and the change victory is celebrated as soon as some indicators appear positive",
+      "one that has ensured the changes are aligned with the organizational culture in important ways"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "The importance of Six Sigma to HR extends to all of the following EXCEPT which one?",
+    "choices": [
+      "performance management",
+      "employee benefits",
+      "training",
+      "communication"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "HRIS systems in some organizations help managers to connect with employees and with the HR data they need. What type of technological effect is this?",
+    "choices": [
+      "relational",
+      "operational",
+      "transformational",
+      "configurational"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "HRIS systems in some organizations, such as Corning Inc., are changing the way HR processes are designed and executed. What type of technological effect is this?",
+    "choices": [
+      "relational",
+      "operational",
+      "transformational",
+      "configurational"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Organization A is attempting to foster proactive change within the firm. This organization is forming teams and extending its processes to include training, performance management, communication, culture, and even rewards. The organization hopes to improve its ability to catch mistakes before they happen. What is Organization A implementing?",
+    "choices": [
+      "Six Sigma",
+      "continuous improvement",
+      "reengineering",
+      "total quality management"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Organization C is attempting to manage reactive change within the organization. This organization is radically changing every process through redesigning and rethinking from the ground up. The firm needs a dramatic change in order to survive. What is Organization C implementing?",
+    "choices": [
+      "Six Sigma",
+      "continuous improvement",
+      "reengineering",
+      "total quality management"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is a key motivator for offshoring?",
+    "choices": [
+      "increased productivity",
+      "better just-in-time operations",
+      "better access to technology",
+      "lowered labour costs"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "XYZ Inc. decided to lay off a relatively large proportion of their employees due to poorer-than-anticipated financial performance. What is this an example of?",
+    "choices": [
+      "proactive change",
+      "transformational change",
+      "transitional change",
+      "reactive change"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "In an effort to take advantage of a market opportunity, Apple created the iPhone in open-source format so that anyone can develop and sell an iPhone application. What is this an example of?",
+    "choices": [
+      "proactive change",
+      "reactive change",
+      "managing change",
+      "transformational change"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Employee productivity is directly driven by three key factors. Which of the following is NOT one of these factors?",
+    "choices": [
+      "low labour costs",
+      "employees\u2019 abilities",
+      "employee motivation",
+      "the work environment"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is an example of corporate social responsibility?",
+    "choices": [
+      "providing career counselling to outsourced employees to increase their ability to find work",
+      "installing noise-reduction baffling in plants to decrease anticipated community complaints",
+      "sharing knowledge freely throughout the organization to improve employee efficiency and workflow",
+      "providing speed-reading courses for front-line staff to improve their abilities in absorbing new information"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which type of work would a knowledge worker most likely engage in?",
+    "choices": [
+      "deciding which type of fertilizer to buy wholesale for a landscaping business",
+      "counting the number of grocery items in carts leaving a wholesale store",
+      "monitoring children on new daycare playground equipment",
+      "installing new ink cartridges in colour photocopiers in an office environment"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Information technology impacts HRM practices in several important ways. Which of the following is one such way?",
+    "choices": [
+      "Paper waste from employee files is drastically decreased.",
+      "Convenience in general has increased.",
+      "Employee recording of all types is carried out much faster.",
+      "Many HR functions can now be considered \u201cself-serve.\u201d"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following is a critical demographic-related problem facing Canadian firms?",
+    "choices": [
+      "an increasingly homogenous population",
+      "retirement of baby boomers",
+      "migration from Ontario",
+      "increasing salaries for employees"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What are millennials also known as?",
+    "choices": [
+      "Generation A",
+      "Generation B",
+      "Generation X",
+      "Generation Y"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "ABC Bank is experiencing rapid retirement of baby boomers. The bank needs to retain its employment levels because of the volume of work, and it does not want to increase the workload of its employees. Which of the following is a good strategy for the bank to pursue to address this situation?",
+    "choices": [
+      "Do nothing as the situation will rectify itself.",
+      "Offer higher compensation packages to attract qualified candidates.",
+      "Downsize the firm to save on labour costs.",
+      "Increase production efforts so as to gain more revenue."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is a key benefit for organizations when they rehire retirees?",
+    "choices": [
+      "lower health care costs",
+      "better strategic planning",
+      "improved group performance",
+      "lower turnover"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following is NOT an approach generally used by organizations to try to lower labour costs?",
+    "choices": [
+      "employee development",
+      "outsourcing",
+      "employee leasing",
+      "relocating aspects of their operations to countries in the developing world"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is one of the largest expenditures of service companies?",
+    "choices": [
+      "production costs",
+      "marketing costs",
+      "labour costs",
+      "distribution costs"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "In an effort to prevent downsizing its employees, ABC Inc. has asked its staff to accept reduced pay. What strategy is ABC Inc. using?",
+    "choices": [
+      "furloughing",
+      "employee leasing",
+      "reduced downsizing",
+      "outsourcing"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which statement best reflects the current view on the efficacy of offshoring as a cost reduction measure?",
+    "choices": [
+      "While organizations can save with this practice, hidden costs, such as productivity loss during the transition, can chew up much of the financial gains.",
+      "The practice of offshoring has been one of the most positive HR trends of the last ten years.",
+      "The continuous shifting of global economies makes offshoring a necessary function for organizations to survive.",
+      "Offshoring only works if top managers begin early in the process to plan their key strategies, such as alternative talent pools and workforce training."
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "ABC Corporation wants to contain its costs while allowing it to maintain working relationships with the employees while shifting administrative costs to another firm. What is this practice an example of?",
+    "choices": [
+      "professional employer organization",
+      "gainsourcing",
+      "employee leasing",
+      "outsourcing"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is a major strength of employee leasing?",
+    "choices": [
+      "Employee leasing shifts employment costs to the PEO.",
+      "With employee leasing, the PEO allows organizations to increase their productivity.",
+      "Employee leasing allows organizations to offer better job security through the strength of the PEO.",
+      "With employee leasing, the PEO can manage employee issues."
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is the Canadian workforce expected to exhibit by 2031?",
+    "choices": [
+      "It is expected to exhibit about the same demographic mix as it does today.",
+      "It is expected to exhibit a decrease in ethnic diversity.",
+      "It is expected to exhibit an increase in ethnic diversity.",
+      "It is expected to exhibit a decrease in retirements."
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following trends is causing a major organizational concern that the expertise of employees will be rapidly drained from their companies?",
+    "choices": [
+      "Generation nexus is thus far not demonstrating a dedication to training and education.",
+      "There is an increase of uneducated women entering the workforce.",
+      "Recruitment of lower-skilled immigrant workers is increasing.",
+      "Large proportions of some workforces are nearing retirement."
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following best captures the list of modern social issues in HRM?",
+    "choices": [
+      "changing work structures, attitudes toward work and family, and increasing labour costs",
+      "changing demographics, employer/employee rights, and attitudes toward work and family",
+      "changing demographics, increasing labour costs, and global economic pressures",
+      "corporate social responsibility, organizational citizenship behaviour, and changing work structures"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which statement best describes the relationship among gender, education, and pay?",
+    "choices": [
+      "Women generally earn less than men do\u037e however, when they have an advanced degree they earn the same amount as men.",
+      "Men and women generally earn the same amount except when neither group has any higher education.",
+      "Women consistently and in every category earn less than men with an equivalent amount of education.",
+      "Men with a university degree earn approximately the same as women with an advanced degree."
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Many Canadian firms are shifting some of their work and jobs to overseas locations. What is this business practice called?",
+    "choices": [
+      "nearshoring",
+      "offshoring",
+      "employee leasing",
+      "downsizing"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following groups is responsible for building an organization\u2019s skilled and motivated workforce?",
+    "choices": [
+      "HR managers",
+      "line managers and supervisors",
+      "department managers",
+      "HR and line managers"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following is a key responsibility of the human resources manager?",
+    "choices": [
+      "ensuring the credit rating of the organization",
+      "balancing the organization\u2019s accounts",
+      "policy formulation and implementation",
+      "securing new markets"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What are the competencies of the human resources manager?",
+    "choices": [
+      "business mastery, HR mastery, and executive mastery",
+      "business mastery, HR mastery, and personal credibility",
+      "business mastery, HR mastery, personal credibility, and change mastery",
+      "change mastery, personal credibility, union mastery, and HR mastery"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is the changing nature of the HR manager\u2019s role increasingly focused on?",
+    "choices": [
+      "policy formulation",
+      "international issues",
+      "privacy issues, global management issues, HR planning, and downsizing issues",
+      "basic practices like staffing, but also policy development, employee advocacy, and advice"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following best summarizes the competency model for HR professionals?",
+    "choices": [
+      "HR professionals require change mastery, HR mastery, personal credibility, and business mastery.",
+      "HR professionals require HR mastery, business mastery, global acumen, and change mastery.",
+      "HR professionals require IT mastery, HR mastery, business mastery, and ethics.",
+      "HR professionals require IT mastery, HR mastery, global acumen, and change mastery."
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Scenario 1.1 Canada Proud is a small food processing company located in northern British Columbia. Recently, it has faced pressures from competitors who have been able to produce similar products more cheaply. The owners of Canada Proud are looking into the possibility of starting a branch of the company in Mexico. Trade agreements among countries around the globe help companies like Canada Proud in becoming globally competitive. However, the company is aware that there may be opposition to such a move, especially if it affects the future viability of its current operations. Refer to Scenario 1.1. Which trade agreement would be applicable in Canada Proud\u2019s case? General Agreement on Tariffs and Trade (GATT) North American Free Trade Agreement (NAFTA) North American Economic Cooperation (NAEC) Canada-Mexico Free Trade Agreement (CMFTA)",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Refer to Scenario 1.1. How can locating a new division in Mexico help the company become more competitive?",
+    "choices": [
+      "It can reduce labour costs.",
+      "It will help the image of the company.",
+      "It will help the company become larger and better able to challenge competitors.",
+      "It will ensure access to Latin American markets for its products."
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Refer to Scenario 1.1. What would be a big challenge for Canada Proud\u2019s HRM professionals if the company decides to open a division in Mexico?",
+    "choices": [
+      "convincing the Canadian government that it would be better to do business in Mexico",
+      "acquiring the physical facilities in Mexico",
+      "laying off workers in its current operations",
+      "hiring employees in Mexico with the relevant skills"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Refer to Scenario 1.1. One way to avoid or reduce criticism of potential exploitation of Mexican workers through the use of sweatshops and low wages would be to practise \u201cgood citizenship.\u201d What is the term used to describe such \u201cgood citizenship\u201d?",
+    "choices": [
+      "corporate social responsibility",
+      "corporate good citizenship",
+      "organizational citizenship",
+      "corporate philanthropy"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Refer to Scenario 1.1. How can setting up a branch in Mexico affect the future viability of Canada Proud\u2019s current operations?",
+    "choices": [
+      "Trade agreements do not allow companies to run exactly the same operations in two countries.",
+      "Public pressure in Canada would force the closure of the current operations.",
+      "The cost advantages in Mexico may lead the company to close its operations in British Columbia.",
+      "The pressure to manage more than one set of operations is always too much for a single company."
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Scenario 1.2 The leadership at ABS Inc. has been pondering on the use of higher levels and intensity of technology in their operations. The organization has a close knit group of about 200 employees and a strong organizational culture. It is worried that its employees could become dependent on technology and this would affect the culture. The firm is also worried about the costs to implement the technology and whether the employees can be trained. Refer to Scenario 1.2. While ABS is worried about technology\u2019s effect on its culture, there is another potentially negative effect for some workers. What is it? There would be less need for unskilled workers. The organization would become more inefficient. The image of the firm would be adversely affected. There would be pay cuts.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Refer to Scenario 1.2. What is a key advantage for ABS Inc. if they install better HRIS systems?",
+    "choices": [
+      "They will outperform all competitors.",
+      "HR personnel can concentrate on strategic issues versus routine.",
+      "Employees will be better paid.",
+      "Application rates will increase."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "To achieve sustainable competitive advantage through people, an organization\u2019s employees\u2019 skills, knowledge, and abilities must be widely available in the labour market. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The knowledge, skills, and capabilities that impact a company\u2019s performance but do not necessarily show up on its balance sheet are known as human capital. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Organizations own their human capital, including investments made in training and development. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "HR programs and assignments are often the primary method by which knowledge is transferred among employees. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "HR professionals do not need to fully understand the economic and financial matters pertaining to their organization. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "One of the main reasons change efforts fail is that organizations do not create a sense of urgency. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Reallocation of resources and assets is most often the reason for failed change management. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The extent to which organizations are successful in focusing on internal management issues often separates the winners from the losers in today\u2019s competitive world. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "To be successful, organizations should seek to align their processes with customer needs. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "\u201cSix Sigma\u201d refers to the six criteria for the Malcolm Baldrige National Quality Award. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Organizations known for product and service quality recognize the importance of employees in fostering quality improvements. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Employee motivation, teamwork, corporate culture, employee education, performance management, and rewards are the six aspects in the quality improvement program known as \u201cSix Sigma.\u201d True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Reengineering is a statistical method of translating customer needs into separate tasks and defining the best way to perform each task. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "To launch a successful reengineering effort, it is important that managers build on existing processes. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "To successfully manage change, organizations, particularly in fast-growing industries, should wait to see how external forces impact performance, and then develop a plan to react to those changes. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "In a recent survey, only about two-thirds of companies reported having a formal change management program to support their change initiatives. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "A recent study suggests that about 55 percent of Canada\u2019s workforce will be impacted by globalization, with knowledge workers and manufacturing jobs taking the brunt of the impact of the competition by lower-wage countries. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Employees and the public at large are demanding that employers demonstrate greater social responsibility. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The introduction of advanced technology tends to increase the number of jobs that require basic skills. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Because of the \u201cdot-com bust,\u201d the initial explosive success of Internet business declined drastically and is still in a moderate decline. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "In general, many companies are realizing diminished demand for \u201ctouch labour\u201d and an increasing demand for \u201cknowledge workers.\u201d True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "A human resource information system (HRIS) provides current and accurate data for control and decision making by managers. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Because of its importance, HR managers in progressive organizations are frequently assuming sole responsibility for the implementation of information technology. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "An important hidden cost of layoffs is a loss of institutional memory and trust in management. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Labour costs are one of the largest expenditures of any organization. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Rather than simply laying off people in downsizing efforts, companies such as L.L. Bean rely upon voluntary separation programs to provide an incentive for employees to leave on their own accord. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Almost all Canadian employers have engaged in some type of downsizing. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Methods of reducing labour costs include downsizing, outsourcing, and employee leasing. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Outsourcing is positively related to improving key competencies of the firm. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "An increased reliance on outsourcing is likely to increase the morale and productivity of the employees that remain on the job. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Employee leasing refers to employing workers in their homes rather than within the traditional office environment. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Employee leasing shifts administrative costs from the company to a professional employer organization. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Employee productivity is the result of a combination of employees\u2019 abilities, motivation, and work environment, and the technology they have to work with. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "It is quite possible that when managers increase costs productivity often rises. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Older workers now are choosing to work longer. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Currently, the percentage of women in the labour force is 35 percent. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Women are heavily concentrated in managerial occupations. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Due to increases in education, the gap between the educated and the non-educated is decreasing. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Managing diversity means ensuring all employees are treated equally. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Managers in general and HR managers in particular should be concerned with the makeup and expectations of their employees. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Employees today are less likely to define success only in terms of financial gain. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Family-friendly companies may risk alienating those employees who cannot utilize benefits provided. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Most human resources issues have little relevance for line managers. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Some companies report that offering family-friendly benefits is so successful there are virtually no drawbacks. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "One of the responsibilities of HR managers is to provide advice and counsel to line managers. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "An HR manager is typically expected to function as an in-house consultant to supervisors, managers, and executives. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Because HR managers function in an advisory role, they are responsible for issuing policy revisions and implementing them. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Top management increasingly expects HR managers to reduce their level of involvement in the overall strategy of the organization and concentrate on improving administrative efficiency. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "One of the roles of HR managers is to act as employee advocates despite their positions as managers. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "According to the diagram in the text, courage is an important aspect of being an HR professional. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  }
+]

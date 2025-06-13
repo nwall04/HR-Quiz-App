@@ -1,0 +1,932 @@
+[
+  {
+    "question": "When an organization hires a person who is described as high in predicted success and high in job performance, what do we call that situation?",
+    "choices": [
+      "a hit",
+      "a miss",
+      "high prediction rate",
+      "a successful selection system"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Abel scored high on an ability test used to hire him. He, however, turned out to be a poor employee. Which term refers to this outcome?",
+    "choices": [
+      "a hit",
+      "a miss",
+      "a poor prediction rate",
+      "an opportunity cost"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Tom Jones was not selected for a job at ABC Corporation. He was later hired at XYZ Inc. and proved to be an excellent employee. In terms of the selection decision, how would you describe this outcome?",
+    "choices": [
+      "a lost cause",
+      "an unpredictable miss",
+      "a predictable miss",
+      "an opportunity cost"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Organization B is using an interview format that requires a panel of three interviewers. The company has found that about half of the time, the interviewers disagree in their ratings such that some members of the panel give the candidate a high rating, while others give the same candidate a low rating. What is the best way to describe the interview format that Organization B is using?",
+    "choices": [
+      "It is not content valid.",
+      "It is lacking predictive validity.",
+      "It is not valid.",
+      "It is not reliable."
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "The HR manager and the training manager separately interviewed five applicants for a position. They both ended scoring the five of them very similarly. What is this result an example of?",
+    "choices": [
+      "high concurrent validity",
+      "high inter-rater reliability",
+      "high construct validity",
+      "high inter-personal reliability"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What do we call the degree to which selection procedures yield comparable data over a period of time?",
+    "choices": [
+      "conformity",
+      "validity",
+      "reliability",
+      "consistency"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What do we call the degree to which inferences drawn from interviews, test scores, and other selection procedures are supported by evidence (such as good job performance)?",
+    "choices": [
+      "predictability",
+      "validity",
+      "reliability",
+      "accuracy"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is a key reason to ensure that selection procedures are valid?",
+    "choices": [
+      "to ensure comprehensive training for HR professionals",
+      "to test reliability",
+      "because validity guarantees the success of the selection procedure",
+      "because validity is related to employee productivity"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following is appropriate to ask on an application form?",
+    "choices": [
+      "whether the applicant has prior arrests",
+      "whether the applicant is eligible to be bonded",
+      "whether the applicant has ever been in jail",
+      "whether the applicant has ever been caught stealing"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following types of interviews allows applicants the most freedom in discussing a response to an interview question?",
+    "choices": [
+      "a structured interview",
+      "a non-directive interview",
+      "an open interview",
+      "a situational interview"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Organization Beta is hiring 20 new staff for front-line positions. The interview the company is using involves giving the applicant hypothetical incidents and asking how he or she would respond. What is this type of interview called?",
+    "choices": [
+      "a behavioural description interview",
+      "a panel interview",
+      "a situational interview",
+      "a structured interview"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What type of interview provides the greatest consistency or standardization with respect to the questions asked?",
+    "choices": [
+      "a structured interview",
+      "a standardized interview",
+      "a nondirective interview",
+      "an unstructured interview"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What type of interview allows the applicant the maximum amount of freedom in determining the course of discussion?",
+    "choices": [
+      "a structured interview",
+      "a depth interview",
+      "a situational interview",
+      "a nondirective interview"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Questions contained in structured job interviews should be based on which of the following?",
+    "choices": [
+      "job design",
+      "job analysis",
+      "job specialization",
+      "job knowledge"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Mary was asked a question in an interview about a hypothetical incident and was asked how she would respond to it. What is this type of interview called?",
+    "choices": [
+      "a situational interview",
+      "a panel interview",
+      "a mock interview",
+      "a nondirective interview"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "During an interview, Seema was asked: \u201cTell me about the last time you helped to train an employee.\u201d What is this an example of?",
+    "choices": [
+      "a nondirective interview question",
+      "a directive interview question",
+      "a behavioural description interview question",
+      "a closed response interview question"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Organization Omega is hiring 20 new front-line employees. The company is using an interview that involves three people taking turns asking questions and then pooling their scores of the responses. What is this type of interview called?",
+    "choices": [
+      "a behavioural description interview",
+      "a panel interview",
+      "a situational interview",
+      "a structured interview"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following best describes the use of reference checks?",
+    "choices": [
+      "They are no longer used because organizations won\u2019t share information about previous employees for fear of litigation.",
+      "Their usefulness is limited because most managers will not share performance data.",
+      "Some organizations have detailed forms for previous employers to fill out in order to get the best information.",
+      "New human rights laws prohibit their use."
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following best describes credit reports?",
+    "choices": [
+      "Organizations must advise and receive written consent from the applicant when they request a credit report.",
+      "Organizations can request a report on any employee at any time without consent.",
+      "Organizations do not have to inform applicants if adverse decisions are made based on information in the report.",
+      "Organizations cannot make adverse decisions based on information in such a report."
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "During her interview for a position as a secretary, Nikki was asked to answer a real phone call from a client. The interviewer used her performance to help with the selection decision. Which of the following types of tests was used in this instance?",
+    "choices": [
+      "a personality test",
+      "a work sample test",
+      "an assessment centre test",
+      "a cognitive ability test"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the GMAT an example of?",
+    "choices": [
+      "a work sample test",
+      "a cognitive ability test",
+      "a structured ability test",
+      "an interest inventory"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following measures mental capabilities such as general intelligence, verbal fluency, numerical ability, or reasoning ability?",
+    "choices": [
+      "a personality and interest inventory",
+      "a physical ability test",
+      "a cognitive ability test",
+      "a job sample"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "According to many experts, what are cognitive ability tests are connected to?",
+    "choices": [
+      "personality",
+      "past exposure to a job",
+      "situational knowledge",
+      "general intelligence"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following is a key basis for the use of biodata tests?",
+    "choices": [
+      "Family history is important to job success.",
+      "They are required by law.",
+      "Past behaviour is the best predictor of future behaviour.",
+      "There are no right or wrong answers."
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following do personality tests measure?",
+    "choices": [
+      "disposition and temperament",
+      "likability and attitude to work",
+      "intelligence and knowledge",
+      "attitudes and behaviours"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following types of tests measure dispositional characteristics such as extroversion, inquisitiveness, and dependability?",
+    "choices": [
+      "mental ability tests",
+      "cognitive ability tests",
+      "personality tests",
+      "biodata tests"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "The \u201cBig Five\u201d factors are related to what type of employment tests?",
+    "choices": [
+      "cognitive ability tests",
+      "general intelligence tests",
+      "personality tests",
+      "mental awareness tests"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Why would an organization use an integrity test?",
+    "choices": [
+      "because even though such tests are not correlated with reduced disruptive behaviours, they have been correlated with reduced turnover",
+      "because such tests are designed to identify thieves",
+      "because these tests not only reduce theft, but also have been shown to have a relationship with performance on the job",
+      "because in using an integrity test, you can avoid the use of most other selection tests, since it has been shown that these are good stand-alone predictors"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is currently the most effective way to assess a person\u2019s honesty during the selection process?",
+    "choices": [
+      "graphology testing",
+      "polygraph testing",
+      "integrity testing",
+      "background testing"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "In the \u201cBig Five\u201d personality tests, what is the dimension captured by the degree to which someone is dependable and organized, and perseveres?",
+    "choices": [
+      "conscientiousness",
+      "agreeableness",
+      "extroversion",
+      "dependability"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following best describes drug testing in the selection process?",
+    "choices": [
+      "It is conducted by very few Canadian organizations",
+      "It is illegal in Canada.",
+      "It is required by law.",
+      "It is conducted in most Canadian workplaces."
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Six months ago, Organization A used a new selection system to hire 100 front-line staff members. With six months of performance data in hand, Organization A is interested in determining if its new selection system predicts performance on the job. What is the best way to describe this process?",
+    "choices": [
+      "assessing concurrent validity through a cross-validation study",
+      "assessing concurrent validity through a criterion-related validity study",
+      "assessing predictive validity through a criterion-related validity study",
+      "assessing predictive validity through a cross-validation study"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Organization C has developed a new selection system. The company is interested in determining if the system predicts performance on the job, so Organization C gave the selection tests to 100 existing employees. What is the best way to describe this process?",
+    "choices": [
+      "assessing concurrent validity through a cross-validation study",
+      "assessing concurrent validity through a criterion-related validity study",
+      "assessing predictive validity through a criterion-related validity study",
+      "assessing predictive validity through a cross-validation study"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following terms refers to the extent to which good performance on an employment selection test correlates with high marks on a performance review?",
+    "choices": [
+      "construct validity",
+      "content validity",
+      "criterion-related validity",
+      "cross-validation"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Giving applicants a clerical aptitude test and then tracking their performance one year later is an example of which of the following?",
+    "choices": [
+      "construct validity",
+      "concurrent validity",
+      "content validity",
+      "predictive validity"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Validity tests related to such things as intelligence and anxiety typically asses which of the following?",
+    "choices": [
+      "criterion validity",
+      "content validity",
+      "concurrent validity",
+      "construct validity"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "What do we call the process whereby a test or test battery is administered to a different sample (drawn from the same population) for the purpose of verifying the results obtained from the original validation study?",
+    "choices": [
+      "repeat validation",
+      "cross-validation",
+      "construct validation",
+      "inferential validation"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The \u201cwill do\u201d factors of an applicant include which of the following?",
+    "choices": [
+      "knowledge and skills",
+      "cognitive abilities",
+      "aptitude",
+      "motivation and interests"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following conditions represents a test that could be described as \u201cconstruct valid\u201d?",
+    "choices": [
+      "A professor puts one essay question on the final exam, and that essay question is drawn from the chapter that she feels is the most important.",
+      "A manager uses a work sample test used for selection that has facets that tap in to every major aspect of the job.",
+      "A researcher gives a test of \u201cjob satisfaction\u201d to a group of participants and checks to make sure that his results correlate with other measures of satisfaction.",
+      "A manager assesses how effective his selection test is by checking the performance of successful candidates months after they are hired."
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Intelligence, mechanical comprehension, and anxiety are examples of which of the following?",
+    "choices": [
+      "job requirements",
+      "constructs",
+      "theories",
+      "personality traits"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is the most objective approach in making employee selection decisions?",
+    "choices": [
+      "\u201ccan-do\u201d approach",
+      "statistical approach",
+      "clinical approach",
+      "\u201cwill-do\u201d approach"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Organization T uses a decision-making model in which an applicant is allowed to score poorly in one area of the selection tests, as long as he or she scores very high in another area. What is this type of decision-making model called?",
+    "choices": [
+      "a statistical model",
+      "a multiple hurdle model",
+      "a compensatory model",
+      "a multiple cutoff model"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "A university uses several criteria for accepting students. There is a minimum score that students have to achieve on each of the criteria to get admitted. What type of selection model is being used?",
+    "choices": [
+      "moving criteria model",
+      "multiple criteria model",
+      "multiple cutoff model",
+      "compensatory model"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "A manager is examining the number of applicants for a job compared to the number of people needed to be hired. What is this figure called?",
+    "choices": [
+      "the yield ratio",
+      "the selection ratio",
+      "the base ratio",
+      "the validity coefficient"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What does a selection ratio of .9 mean?",
+    "choices": [
+      "It means 90 percent of the applicants applying to the position will be hired.",
+      "It means 10 percent of the applicants applying to the position will be hired.",
+      "It means 9 percent of the applicants applying to the position will be hired.",
+      "It means 1 percent of the applicants applying to the position will be hired."
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Canadian Fasteners is an Ottawa-based packing firm that packages nuts, bolts, and screws for various Canadian furniture companies. The firm started operations in 2003 with 13 employees and has grown to over 150 employees today. Employees are paid hourly rates with benefits similar to other packing firms across Ontario. The work does not need previous experience. Canadian Fasteners has been struggling to recruit and hire the right employees to take the company into the new millennium. Part of the problem is that workers, especially floor workers, are hired by word of mouth with no formal application process or even an interview. As a result, the company faces a high turnover rate and spends valuable time training new employees who may not have the prerequisite skills to effectively do the job in the first place. Refer to Scenario 6.1. Which of the following does Canadian Fasteners need to do to gather information about its candidates? administer a lie detector test run background and credit checks on all employees gather r\u00e9sum\u00e9s and applications and conduct interviews continue as it is currently doing things",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Refer to Scenario 6.1. Canadian Fasteners is trying to implement a process to recruit and hire workers. Which of the following would work best in this type of organization?",
+    "choices": [
+      "a non-directive style",
+      "a structured interview",
+      "an open interview",
+      "a contextual interview"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Refer to Scenario 6.1. Assume Canadian Fasteners designates a person to review the applications and conduct the interviews. Which of the following is NOT helpful to the interviewer?",
+    "choices": [
+      "non-standardized questions",
+      "understanding the job",
+      "establishing an interview plan",
+      "controlling the course of the interview"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Scenario 6.2 Computer Direct Inc. is a mid-sized technology firm that specializes in designing, manufacturing, and selling computers. The organization staff complement is very diverse, and most of the company\u2019s employees are in the development and design, sales, and marketing departments. Computer Direct has been using only one method to make recruitment decisions for all of its employees, from managerial to technical to clerical. Data is gathered on each candidate, and a committee assigns scores to candidates based on its understanding of the job. Candidates, however, are not given the opportunity to be tested and hired based on their respective scores. Essentially, decisions are made based on personal judgments. Refer to Scenario 6.2. Which approach best reflects how decisions about recruiting are made at Computer Direct? psychological approach clinical approach statistical approach behavioural approach",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Refer to Scenario 6.2. If Computer Direct wants to use more objective methods of decision making, which of the following is the best approach?",
+    "choices": [
+      "demonstrated approach",
+      "compensatory approach",
+      "subjective iterative approach",
+      "statistical approach"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Refer to Scenario 6.2. Which approach is considered superior and would best serve the needs of Computer Direct?",
+    "choices": [
+      "objective approach",
+      "clinical approach",
+      "statistical approach",
+      "personal judgment approach"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Reliability refers to the extent to which two methods yield similar results, but not to the agreement between two or more raters. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "If an organization\u2019s selection procedures yield comparable data over a period of time, the procedures are valid. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Validity refers to what a selection procedure measures and how well it measures it. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Most organizations require application forms to be completed because they provide a fairly quick and systematic means of obtaining a variety of information about the applicant. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Application forms should always require relevant dates, including date of birth. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "It is estimated that at least 30 percent of applicants stretch the truth on their r\u00e9sum\u00e9s. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Although many organizations are encouraging applicants to apply for jobs online, this practice slows down the application process. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Online applications can speed up the selection process, combine information, and disseminate promising leads to hiring managers more efficiently. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Although widely used, employment interviews pose potential concerns about validity. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Data obtained from nondirective interviews are difficult to validate. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The situational interview is a variation of the unstructured interview. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "A situational interview asks the applicant what he or she actually did in a given situation. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Situational interviews ask applicants how they would respond, while behavioural description interviews ask applicants how they did respond True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Behavioural description interviews are based on hypothetical situations. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "\u201cTell me about the last time you disciplined an employee\u201d could be a behavioural description interview question. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "\u201cTell me more about your experiences on your last job\u201d is an example of a nondirective interview question. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The premise of a behavioural interview is that \u201cpast performance is the best predictor of future performance.\u201d True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Behavioural description interviews appear to be more effective than situational interviews, especially for higher-level positions. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "HRM specialists have found that panel interviews lead to higher reliability and faster decision times than one-to-one interviews. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Video interviews have the advantages of speed and cost-effectiveness. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Typically, a computer interview requires candidates to answer a series (75\u2013125) of multiple-choice questions tailored to the job. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Employers are required by law to provide references for former employees. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Written letters of reference are very valid in the selection of employees. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Credit checks are the most common form of reference check. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The federal government relies extensively on employment testing in the selection process. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Aptitude tests measure what a person knows or can do right now. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The Scholastic Aptitude Test (SAT) is an example of a cognitive ability test. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Since biographical information blanks rarely have obviously right or wrong answers, they are difficult to fake. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Studies have shown that an objective scoring of biographical information blanks and application forms is one of the most potentially valid methods that can be used to predict job success. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Personality tests measure such things as agreeableness, extroversion, and openness to experience. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Conscientiousness refers to the degree to which someone is trusting, amiable, cooperative, and flexible. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "In most instances, employers can legally use polygraph tests to screen applicants. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "A comprehensive analysis of honesty tests reveals that they are valid for predicting theft, disciplinary problems, absenteeism, and job performance. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Human rights legislation severely limits the types of medical inquiries and examinations that employers may use. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Medical examinations are usually conducted before an offer of employment is made. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Drug testing is used much more frequently in Canada than in the United States. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Because of the physical differences between the genders, physical ability tests should be carefully validated on the basis on the essential functions of the job. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Predictive validity is assessed when the test scores of job applicants are held against the performance data for existing employees. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "In general, a criterion-related method of assessing selection test validity is preferred over other methods because it is based on empirical data. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Criterion-related validity is the extent to which a selection tool predicts or correlates with important elements of work behaviour. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Concurrent validity involves testing applicants and obtaining criterion data after they have been on the job for some indefinite period. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Predictive and concurrent validity are determined by comparing test scores with supervisor performance ratings. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "If a work sample test includes major job functions and predicts job success, it has content validity. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The closer the content of the selection instrument to actual work samples or behaviours, the higher the content validity. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Content validity is the most direct and least complicated type of validity to assess. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Asking an applicant for an accounting position to solve accounting problems similar to those encountered on the job is an example of construct validity. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Measuring construct validity requires linking a psychological test to job performance. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "It is much easier to measure what individuals can do than what they will do. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Strategies for selecting managerial and technical people are relatively similar. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Measuring KSAOs of an applicant against the competencies required for the job is called person\u2013organization fit. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "When trying to achieve person\u2013organization fit, managers will pass up potential employees who don\u2019t embrace the values of the company even if they have excellent job skills. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Person\u2013organization fit has become more of a focus in firms that need teamwork and flexibility. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "In large organizations, supervisors are usually responsible for making job offers and notifying applicants of selection decisions. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  }
+]

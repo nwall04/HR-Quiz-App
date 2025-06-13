@@ -1,0 +1,922 @@
+[
+  {
+    "question": "What is the first step in the strategic planning process?",
+    "choices": [
+      "putting together the human resource management team",
+      "executing the human resource plan",
+      "establishing the mission, vision, and values of the organization",
+      "aligning the human resource plan and the strategic plan"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Kramer Athletic Equipment is planning the future of the organization. In this process, the firm is making decisions such as whether to maintain its current path as industry leader in the running shoe business, or branch out to include casual footwear. In addition, the company is also discussing the various needs it will have for new staff if it does choose to go in a new direction. What is Kramer Athletic Equipment doing?",
+    "choices": [
+      "strategic planning",
+      "human resources planning",
+      "applying principles of strategic human resources management",
+      "planning both its business needs and its HR needs"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Organization Z is planning its future. In the process, the firm is making decisions such as what type of market it wants to be the leader in and what path to take to achieve this goal. What is Organization Z doing?",
+    "choices": [
+      "strategic planning",
+      "human resources planning",
+      "performing a Markov analysis",
+      "applying principles of strategic human resources management"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Eldorado Electronics wants to move from the stagnant calculator industry into the smart phone industry. To do so, however, it would have to make significant changes to its approach to product development in order to gain an edge in this competitive industry. What is the smartest next step for Eldorado Electronics?",
+    "choices": [
+      "It should consider how its strategic plans will affect its HR needs.",
+      "It should engage in human resources planning.",
+      "It should apply principles of strategic human resources management.",
+      "It should consider how its strategic plans will affect HR needs and also how its current HR status will affect its strategic plans."
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "HR planning requires HR managers to focus more on an alignment between HR plans and which of the following?",
+    "choices": [
+      "the organization\u2019s financial strategy",
+      "the organization\u2019s marketing position",
+      "the organization\u2019s strategic plan",
+      "the competitive environment"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "On the entrance to Mac Pencils\u2019 factory are the words \u201cto provide the world with high-quality and dependable pencils.\u201d What is this an example of?",
+    "choices": [
+      "strategic vision",
+      "mission",
+      "core values",
+      "core resources"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following best captures the strategic intent of the organization?",
+    "choices": [
+      "its mission",
+      "its vision",
+      "its core values",
+      "its strategic human resource plan"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following best describes the core values of a company?",
+    "choices": [
+      "They represent the alignment of the strategic plan with the human resource plan.",
+      "They are strong enduring beliefs and principles of the company.",
+      "They are the basic purpose of the organization.",
+      "They provide a perspective on where the company is headed."
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "During its strategic retreat, the top management team at IAMME Gold Corporation pondered on the question \u201cWhat\u2019s the organization reason for being?\u201d What was the team most likely focusing on?",
+    "choices": [
+      "the firm\u2019s strategic vision",
+      "the firm\u2019s core values",
+      "the firm\u2019s mission",
+      "the firm\u2019s competitive position"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "As part of its strategic planning process, TJX Corporation is involved in a systematic, regular monitoring of major external forces influencing the organization. What is this process called?",
+    "choices": [
+      "external forecasting",
+      "human resource planning",
+      "Markov analysis",
+      "environmental scanning"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following is NOT generally considered a component of a firm\u2019s competitive environment?",
+    "choices": [
+      "rival firms",
+      "new entrants",
+      "labour laws",
+      "suppliers"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following deliberations on the competitive environment generally involves an active role by HR managers?",
+    "choices": [
+      "an analysis of new entrants",
+      "an analysis of the supply and demand for labour",
+      "coordination with suppliers",
+      "minimizing the technical advantages of rival firms"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What do we call integrated knowledge sets within an organization that distinguish it from its competitors and deliver value to customers?",
+    "choices": [
+      "core capabilities",
+      "competitive advantage",
+      "human capital",
+      "organizational competencies"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "An organizations\u2019 core capabilities consist of three components. Which of the following is NOT one of them?",
+    "choices": [
+      "processes",
+      "systems",
+      "people",
+      "cultural audit"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "What do we consider the firm\u2019s resources to be when they improve the efficiency or effectiveness of the company?",
+    "choices": [
+      "difficult to imitate",
+      "valuable",
+      "organized",
+      "rare"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which statement best describes strategic knowledge workers?",
+    "choices": [
+      "They have skills that are valuable but not unique.",
+      "They have firm-specific skills directly related to company strategy.",
+      "They have unique skills directly linked to the company\u2019s strategy.",
+      "As consultants, they have strategic skills."
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which statement best describes the skills of core employees?",
+    "choices": [
+      "Their skills are not directly related to company strategy.",
+      "They have firm-specific skills directly related to company strategy.",
+      "They have skills that are valuable but not unique.",
+      "Their skills are available to all firms."
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "From an organization\u2019s perspective, what is an important shortcoming of having to rely on part-time employees?",
+    "choices": [
+      "limited benefits",
+      "costs of continuous replacement",
+      "lack of training",
+      "no job security"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "As part of the strategic planning process, XYZ Inc. recently examined the attitudes and activities of the company\u2019s workforce. What was XYZ doing?",
+    "choices": [
+      "an environmental scan",
+      "a cultural audit",
+      "a trend analysis",
+      "a demand forecast"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Smith Frozen Foods performs a yearly employee survey to assess how its employees feel about safety on the job, the comfort of the working conditions, and their general level of satisfaction with their work, managers, and coworkers. What is Smith Frozen Foods most likely performing?",
+    "choices": [
+      "a job satisfaction survey",
+      "an environmental analysis",
+      "a cultural audit",
+      "an engagement measure"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is values-based hiring?",
+    "choices": [
+      "hiring employees whose values correspond to their corporate cultures",
+      "hiring employees based on good ethical values",
+      "hiring decisions that lead to new values being adopted by the company",
+      "hiring executives who then instill their values in the company"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following best describes forecasting human resources needs?",
+    "choices": [
+      "It is scientific and relatively error-free.",
+      "It is difficult and should only be done on rare occasions.",
+      "It should rely strictly on quantitative approaches, which utilize sophisticated analytical models.",
+      "It estimates the number and type of people that are needed to meet organizational objectives."
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following should you take into account when forecasting demand?",
+    "choices": [
+      "absenteeism",
+      "turnover",
+      "business cycles",
+      "labour mobility"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Kappa Technology is a firm in the high-technology sector. It needs to hire individuals with very specific knowledge and abilities, and it needs to do so quickly. Which aspect of employee forecasting will be most important for this company?",
+    "choices": [
+      "skills inventories",
+      "staffing tables",
+      "Markov analysis",
+      "succession planning"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "XYZ Corporation wants to track the percentage and actual number of employees who remain in each of the firm\u2019s job from one year to the next. Which of the following would XYZ Corporation benefit from?",
+    "choices": [
+      "a replacement chart",
+      "a skills inventory",
+      "a Markov analysis",
+      "a succession plan"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Manning Logistics laid off nine employees from data-entry positions in its finance division. Two weeks later, it hired 15 employees into data-entry positions in the inventory division. What mistake has the company committed?",
+    "choices": [
+      "faulty cultural audit",
+      "not forecasting properly",
+      "faulty goal alignment",
+      "not analyzing the internal labour force"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What is the difference between trend analysis and management forecasts?",
+    "choices": [
+      "Trend analysis is used to analyze the business environment and management forecasts predict labour needs.",
+      "Trend analysis uses organizational indexes and management forecasts utilize statistical techniques.",
+      "Trend analysis is quantitative and management forecasts are qualitative.",
+      "Trend analysis has proven success and management forecasts have major shortcomings."
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is a graphical representation of all organizational jobs along with the numbers of employees currently occupying those jobs and future employment requirements?",
+    "choices": [
+      "a Markov analysis",
+      "a trend analysis",
+      "a skills inventory",
+      "a staffing table"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "What is the most important information obtained from a Markov analysis?",
+    "choices": [
+      "human capital readiness",
+      "what types of attitudes employees have",
+      "what positions are going to be coming open and will require a new hire",
+      "how many individuals are ready for promotion"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is NOT a qualitative approach to demand forecasting?",
+    "choices": [
+      "trend analysis",
+      "Delphi technique",
+      "soliciting expert opinion",
+      "management forecast"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is the process of identifying, developing, and tracking key individuals so that they may eventually assume top-level positions?",
+    "choices": [
+      "target forecasting",
+      "predicted change",
+      "succession planning",
+      "replacement selection"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "As part of the SWOT analysis, the internal analyses of the firm would include an analysis of which of the following?",
+    "choices": [
+      "opportunities",
+      "strategy",
+      "threats",
+      "weaknesses"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Vindal Fabrics has determined that its organizational strength is being an industry leader in producing upholstery fabrics for automobiles. The company believes its weakness is its performance in Southeast Asia. It has also determined that it is missing an opportunity by not yet branching into upholstery for public transit seats. In order to complete a SWOT analysis, does Vindal Fabrics need to do next?",
+    "choices": [
+      "It needs to see that its major threat is the economic downturn of the auto industry.",
+      "Its HR department needs to address the company\u2019s major weakness.",
+      "It needs to perform a revenue analysis in order to see what chances it can take.",
+      "Its HR department needs to address the company\u2019s missed opportunity."
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is a cooperative strategy pursued by firms?",
+    "choices": [
+      "joint ventures",
+      "mergers",
+      "acquisitions",
+      "diversification"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "In what way can HR best help ensure that a strategic alliance or joint venture goes smoothly in the beginning?",
+    "choices": [
+      "plan labour supply needs for both organizations",
+      "systematically monitor employee morale for both organizations",
+      "teach employees about the other organization",
+      "assess the compatibility of the two organizational cultures"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "What do we call the internal alignment of HR practices to establish a configuration that is mutually enforcing?",
+    "choices": [
+      "vertical fit",
+      "horizontal fit",
+      "HR alignment",
+      "enforcing fit"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What do we call reducing the workforce through the departure of employees who resign or retire?",
+    "choices": [
+      "attrition",
+      "contraction",
+      "contracting out",
+      "termination"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Organization Y is a unionized textiles manufacturing company that is downsizing. What will Organization Y most likely use when deciding whom to lay off first?",
+    "choices": [
+      "seniority",
+      "the payroll",
+      "what skills and abilities the company needs to thrive",
+      "talent"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Severance pay is usually calculated based on which of the following?",
+    "choices": [
+      "the employee\u2019s years of service and salary",
+      "complex formulas administered by the federal government",
+      "the employee\u2019s skills and abilities",
+      "the employee\u2019s education and performance"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "ATM Company has experienced a recent growth in its business. Which of the following is NOT a likely response to its new HR demands?",
+    "choices": [
+      "Hire full-time employees",
+      "Ask employees to work over-time",
+      "Allow for attrition",
+      "Use contract workers"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What is an HR \u201cdashboard\u201d?",
+    "choices": [
+      "a strategic tool developed by the Boston Consulting Group",
+      "a SWOT analysis at the HR level",
+      "a balanced scorecard",
+      "a software that tracks and graphically displays HR statistics so they can be viewed by managers at a glance"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which of the following is a method for measuring a firm\u2019s strategic alignment?",
+    "choices": [
+      "Markov analysis",
+      "a balanced scorecard",
+      "benchmarking",
+      "an HR \u201cdashboard\u201d"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which term refers to an enthusiastically adopted tool for mapping a firm\u2019s strategy in order to ensure strategic alignment?",
+    "choices": [
+      "target forecasting",
+      "predicted focus",
+      "balanced scorecard",
+      "replacement selection"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which of the following is an important use of the balanced scorecard?",
+    "choices": [
+      "to help balance internal and external fit",
+      "to help managers translate their firms\u2019 strategic goals into operational objectives",
+      "to help managers balance the costs and benefits of HR strategies",
+      "to help with the SWOY analysis"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "An organization states that teamwork and working together are important in its strategy but gives bonuses to individuals who excel independently. What is this an example of?",
+    "choices": [
+      "a misalignment of internal fit",
+      "a misalignment of external fit",
+      "a misalignment of internal and external strategy",
+      "a misalignment of strategy and HR"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Scenario 2.1 Blockbuster Canada was the first of its kind in Canada in the movie and games rental business and operated for more than 21 years. However, with the advent of more modern technology accessible mainly through Netflix and Rogers On Demand, Blockbuster struggled to stay relevant in a tech-savvy environment where videos and games could now be rented conveniently from the comfort of one\u2019s couch via computer or TV. Despite efforts to try to stay relevant, Blockbuster did not leverage technology that had become an important part of their consumer base\u2019s daily lives. As a result, Blockbuster was not able to fight off the competition. Refer to Scenario 2.1. To remain competitive, Blockbuster Canada needed to systematically monitor the major external forces influencing the movie/game rental business. Which of the following would be important to its success? analysis of the internal environment environmental scanning changes in demographics changes in its mission, vision, and values",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Refer to Scenario 2.1. Blockbuster Canada managers could have successfully advanced the company and remained relevant by focusing on which of the following?",
+    "choices": [
+      "an environmental analysis",
+      "what they do best, traditional rentals",
+      "technological changes including information technology and innovations",
+      "incentives to keep consumers coming back"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Refer to Scenario 2.1. What is one of the most important assessments a firm like Blockbuster could have made in order to stay relevant?",
+    "choices": [
+      "identifying the needs of its customers",
+      "identifying the needs of its producers",
+      "identifying the needs of its employees",
+      "teaming up with the competition"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Refer to Scenario 2.1. Blockbuster\u2019s competitive environment includes which of the following?",
+    "choices": [
+      "its customers, HR strategy, new entrants, core capabilities",
+      "its environmental scanning and analysis",
+      "its environmental analysis, strategic planning, and HR strategy",
+      "its customers, rival firms, new entrants, substitutes, and suppliers"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Refer to Scenario 2.1. For years, Blockbuster survived as a successful entity with various competitors until Netflix and Rogers On Demand began making movies and games available online. Which of the following most likely contributed to Blockbuster going out of business?",
+    "choices": [
+      "economic, global, political, and environmental factors",
+      "technological, psychological, and physical factors",
+      "technological changes, social concerns, and demographic and labour market trends",
+      "the lack of knowledge workers"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Scenario 2.2 Avie Products Inc. is planning to add a third shift to its production schedule. It currently has 450 workers involved in all aspects of its fertilizer business, best done in Canada. A recent surge in demand from its global customers is driving the need for more workers\u037e however, Simi Meher, the CEO, is concerned that the surge may be temporary, especially in light of the recent economic downturns in the global environment where Avie does business. Refer to Scenario 2.2. Which approach could Avie use to forecast demand for its products? staffing tables Markov analysis skill inventories trend analysis",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Refer to Scenario 2.2. What would assist Avie in determining how many additional workers it would need for the third shift?",
+    "choices": [
+      "reconciling supply and demand",
+      "Markov analysis",
+      "replacement charting",
+      "trend analysis"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Refer to Scenario 2.2. What is the best strategy for Avie to follow with respect to workers on the third shift?",
+    "choices": [
+      "hire full-time employees to get their commitment",
+      "hire part-time staff",
+      "get management to do the extra work",
+      "outsource the work to India"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Refer to Scenario 2.2. Assume that Avie goes ahead with the third shift. What can the company use to evaluate the effectiveness of this strategy in a year\u2019s time?",
+    "choices": [
+      "Markov analysis",
+      "trend analysis",
+      "skill inventories",
+      "benchmarking"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "HR planning is the process of setting major organizational objectives and developing comprehensive plans to achieve those objectives. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Increased emphasis on HR issues becomes especially critical when organizations consider global strategies, relocation of plants, product innovation plans, and so forth. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Human resources planning plays a key role in organizational strategy implementation because organizational leaders must make decisions regarding resource allocations to human capital, among other things. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Strategic plans have a strong external orientation that covers major portions of the organization, focusing mainly on how the organization will position itself globally. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Human resources planning (HRP) is the conducting of recruitment and selection methods according to a strategic plan. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The mission statement of an organization is a description of the organization\u2019s vision and values. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Organizational core values are the strong enduring beliefs and principles that a company uses as a foundation for its decisions. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Environmental scanning involves the systematic monitoring of internal factors influencing the organization. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Economic factors in environmental scanning include general and global conditions. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The number of hours that Canadians work per week has been trending downward and now hovers around 33 hours a week. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Nearly one-fifth of the workforce is made up of part-time, temporary, and self-employed workers. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "National and regional unemployment rates are often considered a general barometer of labour supply. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Human Resources and Skills Development Canada (HRSDC) analyzes labour markets to determine the supply and demand for labour. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "External supply of labour is central to strategic planning. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Internal analysis provides strategic decision makers with an inventory of organizational skills and resources. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "A cultural audit asks questions such as \u201cHow do employees spend their time?\u201d True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Core capabilities are integrated skills and knowledge sets within an organization that distinguish it from its competitors and deliver value to customers. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Core capabilities provide a long-term basis for technological innovation, product development, and service delivery. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "In general, contract labour possesses skills and knowledge of less strategic value to the organization than core knowledge workers. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Organizations such as Canadian Tire and CIBC conduct cultural audits to examine the attitudes and activities of the external workforce. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "A cultural audit may examine how people are empowered. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "A cultural audit asks questions such as \u201cWhat is the ethnic make-up of my workforce?\u201d True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "There are two approaches to HR forecasting: quantitative and qualitative. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Trend analysis is a qualitative approach to labour demand forecasting. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Trend analysis relies on a single business factor. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Forecasting may be as informal as having one person familiar with the organization anticipate HR needs. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Management forecasts are quantitative measurements of future employment needs. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The Delphi technique works best in organizations where dynamic technological changes affect staffing levels. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Staffing tables provide data on external labour supply sources. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Markov analysis is a systematic monitoring of the major external forces influencing an organization. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Markov analysis focuses on the number of employees in particular jobs and their skill levels, compensation, and job tenure. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Succession planning is the process of identifying, developing, and tracking key individuals so that they may eventually assume top-level positions. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Replacement charts are listings of current jobholders who are potential replacements if an opening occurs. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "SWOT analysis includes the strengths only for strategy formulation purposes. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "The stages of HR activity associated with a merger are (1) precombination, (2) combination, and (3) solidification and assessment. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Value creation is what the firm adds to a product or service by virtue of making it\u037e it\u2019s the amount of benefits provided by the product or service once the costs of making it are subtracted. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Through human resources planning, organizations strive for a proper balance between demand considerations and supply considerations. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Decisions about employee layoffs are usually based on seniority and/or performance. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "A disadvantage of overemphasizing seniority is that less competent employees receive the same rewards and security as more competent employees. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Attrition is the fastest way to achieve workforce reduction. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "In unionized firms, layoffs are typically based on performance. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Attrition and early retirement are means for organizations to reduce excess labour. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Under the umbrella of layoff strategies are several work reduction options: reduced workweek, reduced shifts, transfers to related companies, and so on. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "The use of part-time employees creates a problem of labour costs at fast-food restaurants. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Over time, organizations may try to reduce their workforce by relying on attrition. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Severance pay is a lump-sum payment given to terminated employees. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Benchmarking is the process of comparing the organization\u2019s processes and practices with those of other companies. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Internal fit (or alignment) means that HR practices are aligned with one another in a mutually reinforcing configuration. True False",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "answer": "A"
+  }
+]
